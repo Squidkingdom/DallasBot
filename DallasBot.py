@@ -124,11 +124,7 @@ class DallasBot(discord.Client):
             if (payload.member != self.get_guild(payload.guild_id).me):
                 
                 await self.update()
-
                 
-
-
-    
     async def on_ready(self):
         print(f'We have logged in as {self.user}')
         await self.clientTick()
