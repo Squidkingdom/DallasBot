@@ -1,3 +1,16 @@
 *.webp
 token
 data*
+700-Project1_Files/
+
+__pycache__/
+
+*.gif
+
+dump
+
+no u.html
+
+*.png
+
+PickleTest.py

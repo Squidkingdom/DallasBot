@@ -1,0 +1,27 @@
+!help is updated
+!reset
+!update - remove?
+!purge - add numbers
+!add 
+	id @discord-tag
+	ubi-name @discord-tag
+	-- add check for valid
+!rem
+	id
+	@discord-tag
+!bind
+	config
+	role ??
+!save
+	make auto on player 
+!link
+	ubi-name @discord-tag
+	- check to see if dis is linked
+	- check to see if player is linked
+!setRB
+	[handle number after]
+	change order?
+!whatRB
+	-ephemeral
+
+
